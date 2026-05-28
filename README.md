@@ -7,7 +7,7 @@
 
 - 🔭 A Functional Tester with new experience working as Automation Tester
 - 🛠️ Building and maintaining scripts using Playwright and Cucumber
-- 🚀 Currently learning: Integrating Playwright into CI/CD pipelines
+- 🚀 In Progress: Integrating Playwright into CI/CD pipelines
 
 <!--
 **noriii-dcl/noriii-dcl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
