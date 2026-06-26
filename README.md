@@ -7,9 +7,9 @@ I am a Senior Quality Assurance Engineer with 8 years of experience in software 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-F0DB4F?logo=jenkins&logoColor=black)
 
-- 🔭 A Functional Tester with new experience working as Automation Tester
+- 🔭 A Functional Tester with hands-on experience working as Automation Tester
 - 🛠️ Building and maintaining scripts using Playwright and Cucumber
-- 🚀 In Progress: Integrating Playwright into CI/CD pipelines
+- 🚀 In Progress: Integrating Playwright into CI/CD pipelines, utilizing AI for better automation experience
 
 <!--
 **noriii-dcl/noriii-dcl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
